@@ -11,15 +11,16 @@ Time spent: **2** hours spent in total on setting up, **2 days** keeping the hon
 * dionaea
 
 ## Issues encountered:
-
+* None
 
 ## Summary of the data collected: number of attacks, number of malware samples, etc.:
-
+* About 7,500 attacks from the two dionaea honeypots
+* The first honeypot had about 5,900 attacks while the second one had 1,600
 
 ## Any unresolved questions raised by the data collected:
 * None
 
-<img src='' title='Gif Walkthrough' width='' alt='Gif Walkthrough' />
+<img src='pro9.gif' title='Gif Walkthrough' width='' alt='Gif Walkthrough' />
 
 ## Notes
 ## License
